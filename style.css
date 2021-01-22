@@ -1,7 +1,96 @@
+body {
+    background-color: rgb(226, 223, 223);
+}
+
+header {
+
+    width:42vw;
+    margin: 25px auto;
+    padding: 15px;
+    background-color: white;
+}
+
+nav {
+    width:42vw;
+    margin: 25px auto;
+    padding: 15px;
+    background-color: white;
+}
+
+
+section {
+    width:42vw;
+    margin: 25px auto;
+    padding: 15px;
+    background-color: white;
+}
+
+#odyssey {
+    display: block;
+    text-align: justify;
+    display: flex;
+    justify-content: center;
+}
+
+#hulot {  display: block;
+    text-align: justify;
+    display: flex;
+    justify-content: center;}
+
+#alien { display: block;
+    text-align: justify;
+    display: flex;
+    justify-content: center;}
+
+h1 {
+    display: flex;
+    justify-content: center;
+    font-family: 'Open Sans', sans-serif;
+}
+
+h2 {
+
+    display: flex;
+    justify-content: center;
+    font-family: 'Open Sans', sans-serif;
+}
+
+#text {
+    display: block;
+    width: 270px;
+    height: 90px;
+    margin: 10px;
+
+    text-align: center;
+    border: 2px solid;
+    padding: 20px; 
+    width: 300px;
+    resize: both;
+    overflow: auto;
+}
+
 #tim {
     border-radius: 50%;
-  }
+    border: 2px;
+    border-color: gray;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+      }
 
-
+nav {
+    padding: 30px 15px;
 
 }
+a {  
+    text-align: center;
+    padding: 20px; 
+    width: 300px;
+    resize: both;
+    overflow: auto;
+    text-align: center;
+}
+
+ul {text-align: center;}
+
+
